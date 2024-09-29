@@ -1,9 +1,9 @@
 {
-  "short_name": "",
-  "name": "",
+  "short_name": "Sustaining Solarpunk",
+  "name": "Sustainability in tough times",
   "icons": [{
-    "src": "icon.png",
-    "type": "image/png",
+    "src": "icon.svg",
+    "type": "image/svg",
     "sizes": "192x192"
   }],
   "start_url": "/?utm_source=homescreen",
